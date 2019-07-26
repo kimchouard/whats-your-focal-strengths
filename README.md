@@ -1,6 +1,8 @@
 # whats-your-focal-strengths
 Get some more insight on what focal length you shot the most with.
 
+![Demo Dashboard](https://github.com/kimchouard/whats-your-focal-strengths/blob/master/demo-dashboard.png?raw=true)
+
 # Usage
 
 ```node calc-focal-length.js```
