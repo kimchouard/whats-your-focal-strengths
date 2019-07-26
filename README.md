@@ -9,8 +9,7 @@ This will ask you a folder in which to find your JPGs.
 
 You can specify the folder directly with `--folder`:
 
-```node calc-focal-length.js --folder "/Volumes/Kim Chouard/
-Sony/"```
+```node calc-focal-length.js --folder "/Volumes/Kim Chouard/Sony/"```
 
 # Outputs
 
