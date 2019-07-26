@@ -17,7 +17,7 @@ const saveExifs = async () => {
   await csvExifs.toDisk(path.join(__dirname, '/exifs.csv'));
  
   // Return the CSV file as string:
-  console.log(await csvExifs.toString());
+  // console.log(await csvExifs.toString());
   return await csvExifs.toString();
 }
 
@@ -42,7 +42,7 @@ const extractExifs = async (files, iterator) => {
         LensModel: exif.LensModel,
       }
 
-      console.log('Adding line:',newExif, exif);
+      // console.log('Adding line:',newExif, exif);
 
       exifs.push(newExif);
 
