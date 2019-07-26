@@ -1,4 +1,4 @@
-# whats-your-focal-lengths
+# whats-your-focal-strengths
 Get some more insight on what focal length you shot the most with.
 
 # Usage
